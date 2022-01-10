@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Zilu's Website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a master student majoring in Computer Science at UC San Diego. 
+Hi, I am currently a first-year master student majoring in Computer Science at UC San Diego. I obtained my B.E. in Computer Science and Technology from Sichuan University, where I was advised by Prof. [Yingjie Zhou](https://yj-zhou.github.io/). I also spent a semester in NUS for my undergraduate thesis supervised by Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). 
 
 Research Interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+I am interested in learning representations for graph data. My current research lies in understanding, expressiveness, and deep architectures for Graph Neural Networks. I am also generally interested in data mining related systems, algorithms and applications.
 
-
-Publications
-======
-xxx
+News
+=====
+I am seeking research opportunities or interns in Summer 2022.
+I am also looking for PhD positions starting from Fall 2023 (or Spring).
 
